@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "task": "Write a polite email to reschedule a job interview.",
+    "category": "writing"
+  },
+  {
+    "id": 2,
+    "task": "Explain how a neural network works in simple terms.",
+    "category": "reasoning"
+  }
+]
